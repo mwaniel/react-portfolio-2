@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/me-about.jpg'
+import IMG1 from '../../assets/back2.jpg'
 
 const data =[
   {
@@ -61,7 +61,7 @@ const Portfolio = () => {
               return(
                   <article  key={id} className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                      <img src={image} alt={title} />
+                      <img  src={image} alt={title} />
                     </div>
                     <h3>{title}</h3>
                     <div className='portfolio__item-cta'>
