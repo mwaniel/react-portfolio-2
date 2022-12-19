@@ -27,7 +27,7 @@ const About = () => {
             <article className='about__card'>
                 <FiUsers className='about__icon'/>
                 <h5>Clients</h5>
-                <small>90+ WorldWide</small>
+                <small>40+ WorldWide</small>
             </article>
             <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
@@ -36,8 +36,10 @@ const About = () => {
             </article>
           </div>
           <p>
-          lThe href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md
-          </p>
+          Software Engineer with 2+ industry experience and determined
+about solving real world problems through technology.
+Leveraging analytical competencies and attention to detail in
+order to deliver efficient solutions .I'm working full time at Umeme Networks where we are creating ande developing smart home automation devices and i get a chance to use my coding skills in IOT devices ,am doing freelance projects on the side for my friends. You may have noticed from my portfolio, but I'm obsessed with unique, interesting design and user-friendly functionality so hit me up with your weird artistic project ideas or app proposals.</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

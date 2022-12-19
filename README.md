@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://)
+[Live Demo Link](https://design4.bigbytesltd.uk/)
 
 
 ## Getting Started
@@ -52,7 +52,7 @@ Daniel mwaniki
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+
 
 ## Show your support
 

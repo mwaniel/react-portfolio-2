@@ -14,34 +14,26 @@ const Services = () => {
             <h3>UI/UX Design</h3>
           </div>
 
-          <ul className='servive__list'>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Information Architecture</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Wireframes</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Prototypes</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Visual design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Data visualization</p>
             </li>
           </ul>
         </article>
@@ -51,34 +43,35 @@ const Services = () => {
             <h3>Web Design</h3>
           </div>
 
-          <ul className='servive__list'>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>
+              Design Corporate websites . The purpose of corporate websites is to provide information about your business. In this way, potential clients will know how to get in touch with you</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Building Ecommerce websites</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Portfolios</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Website Maintenance</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Blog Customization or Management</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Graphic Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Custom Website Development</p>
             </li>
           </ul>
         </article>
@@ -88,35 +81,53 @@ const Services = () => {
             <h3>Backend development </h3>
           </div>
 
-          <ul className='servive__list'>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>User Authentication </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Cloud Storage</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Databases</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>API integration</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>REST API and GraphQL API</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Social integration 
+               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>lorem ,ipsumadaehdbabhghhsauiiiahshttasb   ajgsuahsuvaudghbjbsaughasg</p>
+              <p>Push notification</p>
             </li>
+            <li>
+            <BiCheck className='service__list-icon' />
+            <p>Database Graphical user interface 
+            
+            </p>
+          </li>
+          <li>
+          <BiCheck className='service__list-icon' />
+          <p>Cache ,
+          CDN </p>
+        </li>
+        <li>
+        <BiCheck className='service__list-icon' />
+        <p> Logs ,
+        Geo location ,
+        Cloud code function</p>
+      </li>
           </ul>
         </article>
         {/*end of backend*/}

@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import PIC from '../../assets/me-about.jpg'
+import PIC from '../../assets/imagess/pass.png'
 
  // core version + navigation, pagination modules:
  import  {  Pagination } from 'swiper';
@@ -15,24 +15,20 @@ import PIC from '../../assets/me-about.jpg'
 const data = [
   {
     avatar: PIC,
-    name: 'tinashow',
-    review:'Reprehenderit cillum esse cillum minim sit aliqua ad eiusmod id nulla sit non elit. Proident qui dolor in dolore voluptate deserunt irure aliqua commodo laboris. Est ut consequat est mollit enim cillum anim labore minim anim.'
+    name: 'Samuel',
+    review:'I am the director of Umeme networeks  nad working with Daniel has been wonderfull, he has gone beyond my  expectation and proven to be well experienced.He is  a great asset at the company '
   },
   {
     avatar: PIC,
-    name: 'dante dante',
-    review: 'Proident sit occaecat ea anim. Ullamco occaecat ipsum proident eiusmod est aute aliqua occaecat occaecat cupidatat. Ullamco quis ex quis fugiat. Non culpa nulla duis reprehenderit tempor ea ex est consectetur in. Sint dolore cupidatat amet do ad laborum et do. Minim id culpa officia mollit. Sunt laboris laboris labore eiusmod pariatur sit.'
+    name: 'Dennis Mussili',
+    review: 'Am the ceo of saibba tech and i can say that Daniel is a good guy.Knows his tools well.'
   },
   {
     avatar: PIC,
-    name: 'kevo manu',
-    review:'Non et enim ut ex sunt commodo dolore nostrud ut. Tempor aliqua est deserunt aliqua in est laborum nostrud exercitation. Proident pariatur culpa consequat et incididunt do ex elit Lorem cupidatat laborum culpa officia proident.'
+    name: 'Benjamin ',
+    review:'A+ services, what i love most about him is that whenever I have an issue, he sort it,follow up and contact me until satisfaction.'
   },
-  {
-    avatar: PIC,
-    name: 'john kuria',
-    review:'Ullamco incididunt consequat ea ipsum irure voluptate do consectetur elit quis. Deserunt tempor in officia irure. Veniam ex duis sit magna in proident ea. Officia nostrud ea esse id consectetur qui laboris non.'
-  },
+ 
 ]
 
 const Testimonials = () => {
